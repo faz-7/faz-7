@@ -30,4 +30,4 @@ I'm a Computer Engineering student at Isfahan University with a passion for **Ar
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faz-7&show_icons=true&theme=radical)
