@@ -14,7 +14,6 @@ I'm a Computer Engineering student at Isfahan University with a passion for **Ar
 - **Machine Learning Libraries**: 
   - ![PyTorch](https://img.shields.io/badge/PyTorch-1.9.0-orange)
   - ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5-orange)
-  - ![Keras](https://img.shields.io/badge/Keras-2.4.3-red)
   - ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-blue)
 
 - **Frameworks**: 
