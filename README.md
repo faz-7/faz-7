@@ -1,7 +1,5 @@
 # Hello! I'm Faeze Salehi 👋
 
-![Header Image](https://media.giphy.com/media/3oEjI6SIIHBd3mZ3gA/giphy.gif)
-
 I'm a **Computer Engineering** student at Isfahan University with a passion for **Artificial Intelligence**. My studies and projects revolve around **Machine Learning** and **Natural Language Processing**.
 
 ---
@@ -30,7 +28,5 @@ I'm a **Computer Engineering** student at Isfahan University with a passion for 
 - [Email](mailto:fasa.pub@gmail.com)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faz-7&show_icons=true&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=faz-7&color=blue)
