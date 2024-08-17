@@ -29,5 +29,3 @@ I'm a Computer Engineering student at Isfahan University with a passion for **Ar
 - [Email](mailto:fasa.pub@gmail.com)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faz-7&show_icons=true&theme=radical)
