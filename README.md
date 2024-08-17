@@ -7,22 +7,25 @@ I'm a **Computer Engineering** student at Isfahan University with a passion for 
 ### 🔧 Skills
 
 #### Programming Languages
-![Python](https://img.shields.io/badge/Python-3.9-blue) 
-![Java](https://img.shields.io/badge/Java-11-orange) 
-![C++](https://img.shields.io/badge/C%2B%2B-11-red) 
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40"/> 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"/> 
 
 #### Machine Learning Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-1.9.0-orange) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5-orange) 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-blue) 
+<img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40"/> 
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40"/> 
+<img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn" width="40"/> 
 
 #### Frameworks
-![Django](https://img.shields.io/badge/Django-3.2-green) 
-![Flask](https://img.shields.io/badge/Flask-2.0-orange) 
+<img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40"/> 
+<img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="40"/> 
 
 ---
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faeze%20Salehi-blue)](https://www.linkedin.com/in/faeze-salehi7) 
-[![Email](https://img.shields.io/badge/Email-fasa.pub@gmail.com-red)](mailto:fasa.pub@gmail.com)
+<a href="https://www.linkedin.com/in/faeze-salehi7"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>
+<a href="mailto:fasa.pub@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/></a>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=faz-7&color=blue)
