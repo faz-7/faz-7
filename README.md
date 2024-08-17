@@ -26,5 +26,3 @@ I'm a Computer Engineering student at Isfahan University with a passion for **Ar
 
 - [LinkedIn](https://www.linkedin.com/in/faeze-salehi7)
 - [Email](mailto:fasa.pub@gmail.com)
-
----
