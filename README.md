@@ -11,9 +11,8 @@ I'm a **Computer Engineering** student at Isfahan University with a passion for 
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40"/>
-    <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40"/> <!-- PyTorch -->
+    <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn" width="40"/> <!-- Scikit-Learn -->
     <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40"/>
     <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="40"/>
 </div>
