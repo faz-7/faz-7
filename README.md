@@ -4,10 +4,6 @@ I'm a Computer Engineering student at Isfahan University with a passion for **Ar
 
 ---
 
-## 🌟 About Me
-
-I have a strong foundation in backend development, particularly with **Django**. I love exploring new technologies and applying them to solve real-world problems.
-
 ### 🔧 Skills
 
 - **Programming Languages**: 
@@ -24,9 +20,6 @@ I have a strong foundation in backend development, particularly with **Django**.
 - **Frameworks**: 
   - ![Django](https://img.shields.io/badge/Django-3.2-green)
   - ![Flask](https://img.shields.io/badge/Flask-2.0-orange)
-
-- **Tools**: 
-  - Git, Docker, Jupyter, VS Code
 
 ---
 
