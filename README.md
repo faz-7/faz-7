@@ -1,17 +1,65 @@
 <h1 align="center">Hi 👋, I'm Faeze Salehi</h1>
-<h3 align="center">Computer Engineering Student at Isfahan University</h3>
+<h3 align="center">Computer Engineering Student | Deep Learning Enthusiast | Neuro-AI Explorer</h3>
 
+---
 
-- 🌱 I’m currently learning **Deep Learning**
+🎓 **Senior student at University of Isfahan**  
+💡 Passionate about combining **AI** with **Neuroscience & Psychology**  
+📽️ My B.Sc. thesis was focused on **Personality Recognition from Video Data**  
+🧠 Currently exploring: **Deep Learning**, **Neural Decoding**, and **Multimodal AI**
 
-- 📫 How to reach me **faezesalehi.pub@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 Featured Projects
+- 🧠 [VGG-Based Personality Prediction](https://github.com/faz-7/VGG-Personality-Prediction)  
+  A deep learning project for predicting personality traits from visual cues using VGG and behavioral data.
+
+- 🔤 [NLP Word Prediction](https://github.com/faz-7/NLP-Word-Prediction)  
+  A language modeling project using N-grams and neural networks to predict next words in Persian text.
+  
+- 🎓 *Coming soon*: My thesis project on personality recognition using video-based behavioral features
+
+---
+
+### 🌱 Currently Learning
+- Advanced Deep Learning Architectures  
+- Brain-Inspired Machine Learning  
+- Temporal Data Modeling
+
+---
+
+### 📫 Let's Connect
 <p align="left">
-<a href="https://www.linkedin.com/in/faeze-salehi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faeze-salehi7" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/faeze-salehi7" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faeze-salehi" height="30" width="40" />
+  </a>
+  <a href="mailto:faezesalehi.pub@gmail.com">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faz-7&show_icons=true&locale=en&layout=compact" alt="faz-7" /></p>
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faz-7&show_icons=true&theme=radical" alt="github stats"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faz-7&layout=compact&theme=radical" alt="top langs"/>
+</p>
+
+---
