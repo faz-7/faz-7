@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Faeze Salehi</h1>
-<h3 align="center">Computer Engineering Student | Deep Learning Enthusiast | Neuro-AI Explorer</h3>
+<h3 align="center">Computer Engineering Graduate | Deep Learning & NLP Enthusiast | Neuro-AI Explorer</h3>
 
 ---
 
-🎓 **Senior student at University of Isfahan**  
+🎓 **B.Sc. in Computer Engineering – University of Isfahan**  
 💡 Passionate about combining **AI** with **Neuroscience & Psychology**  
-📽️ My B.Sc. thesis was focused on **Personality Recognition from Video Data**  
-🧠 Currently exploring: **Deep Learning**, **Neural Decoding**, and **Multimodal AI**
+📽️ My B.Sc. thesis focused on **Personality Recognition from Video Data**   
+🧠 Exploring: **Deep Learning**, **NLP**, and **Brain-Inspired AI**
 
 ---
 
@@ -23,8 +23,8 @@
 
 ### 🌱 Currently Learning
 - Advanced Deep Learning Architectures  
-- Brain-Inspired Machine Learning  
-- Temporal Data Modeling
+- Neural Decoding & Multimodal AI  
+- NLP Techniques for Low-Resource Languages
 
 ---
 
